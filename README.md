@@ -10,7 +10,7 @@ If you ask my dream job, I would love to be a part of a global program which hel
 
 
 ### Stats
-![Akshay's Github Stats](https://github-readme-stats.vercel.app/api?username=anandwana001&count_private=true&theme=default&show_icons=true)
+![Akshay's Github Stats](https://github-readme-stats.vercel.app/api?username=anandwana001&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
 
 
 ### Social Links
