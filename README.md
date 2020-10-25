@@ -26,9 +26,6 @@ If you ask my dream job, I would love to be a part of a global program which hel
 <a href="https://github.com/anandwana001">
   <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/_akshay_nandwana/">
-  <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://stackoverflow.com/users/5261361/akshay-nandwana">
   <img align="left" alt="Akshay's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
