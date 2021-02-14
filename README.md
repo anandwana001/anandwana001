@@ -9,10 +9,6 @@ I am passionate about the Google Communities and Student Clubs. I was first sele
 If you ask my dream job, I would love to be a part of a global program which helps Environment or Students in many ways. Currently, I am proud to be a part of [Oppia Foundation](https://www.oppia.org/).
 
 
-### Stats
-![Akshay's Github Stats](https://github-readme-stats.vercel.app/api?username=anandwana001&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
-
-
 ### Social Links
 <a href="https://twitter.com/akshay81844">
   <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,9 +19,9 @@ If you ask my dream job, I would love to be a part of a global program which hel
 <a href="https://medium.com/@anandwana">
   <img align="left" alt="Akshay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://github.com/anandwana001">
-  <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://stackoverflow.com/users/5261361/akshay-nandwana">
   <img align="left" alt="Akshay's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href = "https://www.instagram.com/_akshay_nandwana/">
+  <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
