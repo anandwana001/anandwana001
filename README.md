@@ -1,7 +1,5 @@
 ## Hi 👋, I am Akshay
 
-<img src="https://github.com/anandwana001/anandwana001/blob/master/download.jpeg" />
-
 As a budding Android Developer, I am improving skills daily through which I can help in developing good android apps with more focus on <b>Structure Building</b>, <b>User Interface</b> and majorly focusing on <b>Shared Testing</b> these days. 
 
 I am passionate about the Google Communities and Student Clubs. I was first selected as an Android Facilitator in Applied CS with Android program by Google Developers. Next, I was awarded the status of Developer Student Clubs Lead and recognize the work by taking me to the Google I/O 2018. [Featured my story on Google Developers YouTube channel is a proud moment for me](https://www.youtube.com/watch?v=y1JuamnN4_Q).
