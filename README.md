@@ -30,4 +30,6 @@ If you ask my dream job, I would love to be a part of a global program which hel
 <details>
   <summary>Github Stats</summary>
   <img align="left" alt="Akshay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anandwana001&show_icons=true&hide_border=true" />
+  
+  <img align="left" alt="Nishant's GitHub Metric" src="https://github.com/anandwana001/anandwana001/blob/master/github-metrics.svg" />
 </details>
