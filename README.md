@@ -23,3 +23,11 @@ If you ask my dream job, I would love to be a part of a global program which hel
 <a href = "https://www.instagram.com/_akshay_nandwana/">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
+
+
+### Stats
+<details>
+  <summary>Github Stats</summary>
+  <img align="left" alt="Akshay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anandwana001&show_icons=true&hide_border=true" />
+</details>
