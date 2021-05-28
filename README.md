@@ -6,14 +6,17 @@ Currently, I am working at [Oppia Foundation](https://www.oppia.org/) on the [an
  - 🎨 Working closely with the design team to ensure support on various screen sizes. 
  - 🤝 Involved with the organization's Onboarding Team, helping new contributors to get started with the open-source contributions by mentoring them in the starting issues and keeping Wiki up to date. 
  - 🦿 Also, manages the Developer Workflow experience for the Android Repository.
+ - 🧑🏻‍💻 Google Summer of Code 2021 Mentor for Oppia-Android
+<br></br>
 
-👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 
-I am passionate about the Google Communities and Student Clubs. <br>
-🎖 I was first selected as an Android Facilitator in Applied CS with Android program by Google Developers. [Success Story](https://www.youtube.com/watch?v=6vfCdHDjXQA)<br>
-🎖 Next, I was awarded the status of Developer Student Clubs Lead and recognize the work by taking me to the Google I/O 2018. <br> 
-🎖 [Google featured my story on their Google Developers YouTube channel is a proud moment for me](https://www.youtube.com/watch?v=y1JuamnN4_Q).<br>
-🎖 [Twitter Moments](https://twitter.com/i/events/1037634773605265409)<br>
-👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 
+👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 <br>
+I am passionate about the Google Communities and Student Clubs.
+ - 🎖 I was first selected as an Android Facilitator in Applied CS with Android program by Google Developers. [Success Story](https://www.youtube.com/watch?v=6vfCdHDjXQA)
+ - 🎖 Next, I was awarded the status of Developer Student Clubs Lead and recognize the work by inviting me to the Google I/O 2018.
+ - 🎖 [Google featured my story on their Google Developers YouTube channel is a proud moment for me](https://www.youtube.com/watch?v=y1JuamnN4_Q).
+
+[My Twitter Moments](https://twitter.com/i/events/1037634773605265409)
+<br>👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 
 
 
 ### Social Links
