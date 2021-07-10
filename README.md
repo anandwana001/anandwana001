@@ -8,7 +8,7 @@ Currently, I am working at [Oppia Foundation](https://www.oppia.org/) on the [an
  - 🦿 Also, manages the Developer Workflow experience for the Android Repository.
  - 🧑🏻‍💻 Google Summer of Code 2021 Mentor for Oppia-Android
 
-Apart from Android, I contribute to [Oppia's Web Platform](https://github.com/oppia/oppia/pulls/anandwana001) as well to bring some more variety of work. This summer I will be working on schema migration in Oppia-web. 
+Apart from Android, I contribute to [Oppia's Web Platform](https://github.com/oppia/oppia/pulls/anandwana001) backend to bring some variety of work. This summer I will be working on schema migration in Oppia-web. 
 <br></br>
 
 👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 <br>
