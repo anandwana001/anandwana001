@@ -1,6 +1,7 @@
 ## Hi 👋, I am Akshay
-![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-766DB2?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ### Oppia [May 2020 - present]
 Currently, I am working at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001).
