@@ -3,8 +3,11 @@
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-### Oppia [May 2020 - present]
-Currently, I am working at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001).
+### Zee5 [April 2022 - present]
+ - 🗜️ &nbsp; App Size Reduction
+
+### Oppia [May 2020 - April 2022]
+I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001). Majorly handled Developer Experience and supporting features in Android app.
  - 🦿 &nbsp; Added much needed offline first download UI-driven support for second alpha release, followed by documentation.
  - 🧪 &nbsp; Written UI/Unit test for first alpha release, fixed and owned the entire shared test code.
  - 🧐 &nbsp; Built a complete pipeline for static analysis over GitHub actions.
