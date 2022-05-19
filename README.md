@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-### Zee5 [April 2022 - present]
+### Zee5 [April 2022 - present] (Using [@akshayzee](https://github.com/akshayzee))
  - 🗜️ &nbsp; App Size Reduction
  - 📊 &nbsp; Working with Ads Team to help them to collect insight from Zee5 Android app.
  - 🎯 &nbsp; Fixing crashes from crashlytics 
