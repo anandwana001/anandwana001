@@ -4,9 +4,10 @@
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ### Zee5 [April 2022 - present] (Using [@akshayzee](https://github.com/akshayzee))
+ - 🚀 &nbsp; Working with Customer Experience team to bring new features from scratch to attract more customers
  - 🗜️ &nbsp; App Size Reduction
- - 📊 &nbsp; Working with Ads Team to help them to collect insight from Zee5 Android app.
- - 🎯 &nbsp; Fixing crashes from crashlytics 
+ - 📊 &nbsp; Working with Ads Team to help them to collect insight from Zee5 Android app
+ - 🎯 &nbsp; Worked on live issues
 
 ### Oppia [May 2020 - April 2022]
 I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001). Majorly handled Developer Experience and supporting features in Android app.
