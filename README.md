@@ -4,10 +4,10 @@
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ### Zee5 [April 2022 - present] (Using [@akshayzee](https://github.com/akshayzee))
- - 🚀 &nbsp; Working with the Customer Experience team to bring new features from scratch to attract more customers
- - 🗜️ &nbsp; App Size Reduction (~3.4MB)
- - 📊 &nbsp; Working with the Ads Team to help collect insight from the Zee5 Android app
- - 🎯 &nbsp; Fixing live issues/bugs
+ - 🚀 &nbsp; Built new customer experience and engagement features based on Kotlin, Jetpack Compose, and Coroutine
+ - 🗜️ &nbsp; Reduced App Size by 25% by introducing various means like migration to dynamic features, optimizing assets, etc
+ - 📊 &nbsp; Worked with the Ads/Revenue Generation Team to collect user insights using Mixpanel, Appsflyer, and Clevertap
+ - 🎯 &nbsp; Facilitating live bugs fixes coming on the market build using Firebase Crashlytics
 
 ### Oppia [May 2020 - April 2022]
 I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001). Majorly handled Developer Experience and supporting features in Android app.
