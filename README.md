@@ -8,6 +8,7 @@
  - 🗜️ &nbsp; Reduced App Size by 25% by introducing various means like migration to dynamic features, optimizing assets, etc
  - 📊 &nbsp; Worked with the Ads/Revenue Generation Team to collect user insights using Mixpanel, Appsflyer, and Clevertap
  - 🎯 &nbsp; Facilitating live bugs fixes coming on the market build using Firebase Crashlytics
+ - 🎨 &nbsp; Solely responsible for Introducing Server-Driven Cached Design System using Jetpack Compose and GraphQL
 
 ### Oppia [May 2020 - April 2022]
 I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001). Majorly handled Developer Experience and supporting features in Android app.
