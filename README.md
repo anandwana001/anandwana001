@@ -2,6 +2,7 @@
 ![image](https://img.shields.io/badge/Kotlin-766DB2?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Zee5 [April 2022 - present] (Using [@akshayzee](https://github.com/akshayzee))
  - 🚀 &nbsp; Built new customer experience and engagement features based on Kotlin, Jetpack Compose, and Coroutine
@@ -9,6 +10,7 @@
  - 📊 &nbsp; Worked with the Ads/Revenue Generation Team to collect user insights using Mixpanel, Appsflyer, and Clevertap
  - 🎯 &nbsp; Facilitating live bugs fixes coming on the market build using Firebase Crashlytics
  - 🎨 &nbsp; Solely responsible for Introducing Server-Driven Cached Design System using Jetpack Compose and GraphQL
+ - 🏆 &nbsp; Winner of in-house Hackathon, built Zee-Shorts feature similar to Instagram Reels and on top of that add a immersive experience on details page
 
 ### Oppia [May 2020 - April 2022]
 I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001). Majorly handled Developer Experience and supporting features in Android app.
