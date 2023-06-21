@@ -42,8 +42,6 @@ I am passionate about the Google Communities and Student Clubs.
 [My Twitter Moments](https://twitter.com/i/events/1037634773605265409)
 <br>👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 
 
-### Insights
-![Profile views](https://gpvc.arturio.dev/anandwana001)  
 
 ### Social Links
 <a href="https://twitter.com/akshay81844">
