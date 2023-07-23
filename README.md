@@ -10,12 +10,12 @@
  - 📊 &nbsp; Worked with the Ads/Revenue Generation Team to collect user insights using Mixpanel, Appsflyer, and Clevertap
  - 🎯 &nbsp; Facilitating live bugs fixes coming on the market build using Firebase Crashlytics
  - 🎨 &nbsp; Solely responsible for Introducing Server-Driven Cached Design System using Jetpack Compose and GraphQL
- - 🏆 &nbsp; Winner of in-house Hackathon, built Zee-Shorts feature similar to Instagram Reels and on top of that add a immersive experience on details page
+ - 🏆 &nbsp; Winner of in-house Hackathon, built Zee-Shorts feature similar to Instagram Reels and on top of that add an immersive experience on the details page
 
 ### Oppia [May 2020 - April 2022]
 I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repository](https://github.com/oppia/oppia-android/pulls/anandwana001). Majorly handled Developer Experience and supporting features in Android app.
- - 🦿 &nbsp; Added much needed offline first download UI-driven support for second alpha release, followed by documentation.
- - 🧪 &nbsp; Written UI/Unit test for first alpha release, fixed and owned the entire shared test code.
+ - 🦿 &nbsp; Added much-needed offline first download UI-driven support for the second alpha release, followed by documentation.
+ - 🧪 &nbsp; Written UI/Unit test for a first alpha release, fixed and owned the entire shared test code.
  - 🧐 &nbsp; Built a complete pipeline for static analysis over GitHub actions.
  - 🎨 &nbsp; Working closely with the design team to enhance performance time and ensure support on various screen sizes.
  - 🤝 &nbsp; Mentored 15+ open source contributors to begin their contribution at Oppia Foundation.
@@ -23,19 +23,19 @@ I had worked at [Oppia Foundation](https://www.oppia.org/) on the [android repos
  - 🌎 &nbsp; Apart from Android, I contribute to [Oppia's Web Platform](https://github.com/oppia/oppia/pulls/anandwana001) backend to bring some variety of work. I am working on schema migration in Oppia-web.
 
 ### MindOrks [Aug 2018- May 2019]
- - 🧪 &nbsp; Worked on one of the leading EdTech android apps, Doubtnut, which has 10,00,000+ installs and 4.0 rating. Build features like app invites, share the application, to increase app visibility.
- - 🦿 &nbsp; Added a major feature called Daily Quiz, using third party libraries like Evernote’s android job,Instacart’s true time, and created a base structure using material design. Enhanced the in-app chatting experience using open graph tags.
+ - 🧪 &nbsp; Worked on one of the leading EdTech Android apps, Doubtnut, which has 10,00,000+ installs and 4.0 rating. Build features like app invites, and share the application, to increase app visibility.
+ - 🦿 &nbsp; Added a major feature called Daily Quiz, using third-party libraries like Evernote’s android job, Instacart’s true time, and created a base structure using material design. Enhanced the in-app chatting experience using open graph tags.
  - 🧑🏻‍💻 &nbsp; Technical Content Creator at MindOrks – written [android specific articles](https://blog.mindorks.com/user/profile/id/7037)
 
 ### Community [Sep 2017- Jan 2019]
-I am passionate about the Google Communities and Student Clubs.
+I am passionate about Google Communities and Student Clubs.
  - 🎖 &nbsp; I was first selected as an Android Facilitator in Applied CS with Android program by Google Developers. [Success Story](https://www.youtube.com/watch?v=6vfCdHDjXQA)
- - 🎖 &nbsp; I was awarded the status of Developer Student Clubs Lead and recognize the work by inviting me to the Google I/O 2018.
+ - 🎖 &nbsp; I was awarded the status of Developer Student Clubs Lead and recognized the work by inviting me to the Google I/O 2018.
  - 🎖 &nbsp; [Google featured my story on their Google Developers YouTube channel is a proud moment for me](https://www.youtube.com/watch?v=y1JuamnN4_Q).
 
 ### Current Side Project
 - [Learning Compose](https://github.com/anandwana001/Compose-Closet)
-- Bringing possible Android Interview Question under [one repository](https://github.com/anandwana001/android-interview)
+- Bringing possible Android Interview Questions under [one repository](https://github.com/anandwana001/android-interview)
 
 
 ### Feature
@@ -45,7 +45,7 @@ I am passionate about the Google Communities and Student Clubs.
 ### Support
 <a href="https://www.buymeacoffee.com/anandwana001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-### Need a Mentor? Click Below
+### Need a Mentor? [Click Here](https://topmate.io/anandwana001)
 <img src="https://github.com/anandwana001/anandwana001/assets/25057618/8fb4b911-28a9-460e-824b-67b06f215d95" width=400 height=80/>
 
 
