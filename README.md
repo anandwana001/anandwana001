@@ -51,11 +51,17 @@ I am passionate about Google Communities and Student Clubs.
 
 
 ### Social Links
-<a href="https://twitter.com/akshay81844">
-  <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.youtube.com/@anandwana001">
+  <img align="left" alt="Akshay's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anandwana001/">
   <img align="left" alt="Akshay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_akshay_nandwana/">
+  <img align="left" alt="Akshay's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/akshay81844">
+  <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://medium.com/@anandwana">
   <img align="left" alt="Akshay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
