@@ -52,7 +52,7 @@ I am passionate about Google Communities and Student Clubs.
 <br>👩🏻‍🎓 🧑🏻‍🎓 👨🏻‍🎓 
 
 ### Support
-<a href="https://www.buymeacoffee.com/anandwana001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/anandwana001)
 
 ### Need a Mentor? [Click Here](https://www.preplaced.in/profile/akshay-nandwana)
 
