@@ -54,7 +54,6 @@ I am passionate about Google Communities and Student Clubs.
 ### Support
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/anandwana001)
 
-### Need a Mentor? [Click Here](https://www.preplaced.in/profile/akshay-nandwana)
 
 ### Other Service I'm Offering? [Click Here](https://topmate.io/anandwana001)
 
