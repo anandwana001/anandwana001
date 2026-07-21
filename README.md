@@ -1,6 +1,22 @@
-## Hi 👋, I am Akshay
+## Hi 👋, I am Akshay Nandwana
+
 ![image](https://img.shields.io/badge/Kotlin-766DB2?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge)
+![image](https://img.shields.io/badge/Conversational%20AI-0095FF?style=for-the-badge)
+![image](https://img.shields.io/badge/Google%20Developer%20Expert-4285F4?style=for-the-badge)
+
+Google Developer Expert (Android) • Field Product & Developer Evangelist @Agora (NASDAQ: API)
+
+Building Real-Time AI, Voice AI, Android, Developer Experience and Open Source.
+
+### Agora (NASDAQ: API) [March 2026 - Present]
+ - 🎙️ &nbsp; Field Product & Developer Evangelist for India & Middle East
+ - 🤖 &nbsp; Built Conversational AI Quickstarts (Android, iOS & Flutter)
+ - 🚀 &nbsp; Built Voice AI Recipes, Agora Codelabs and Certification demos
+ - 🌍 &nbsp; Building ecosystem partnerships
+ - 🎤 &nbsp; Delivering talks and workshops on Voice AI, Conversational AI and RTC
+ - 💡 &nbsp; Working closely with Product Engineering to improve Developer Experience through developer feedback
 
 ### Founder - Android Engineers [April 2024 - present]
  - 🚀 &nbsp; Consulting Google Sustainability Team as an Android Engineer 
@@ -9,6 +25,11 @@
  - 🧑🏻‍💻 &nbsp; Live Android Classes for 0-10+ yr Experience Developers
  - 🧑🏻‍💻 &nbsp; Live Projects
  - 🧑🏻‍💻 &nbsp; Open Source Mentorship
+
+### Google (Ground) [June 2024 - Dec 2025]
+ - ⚡ &nbsp; Improved application startup time by 20% using Android Studio Profiler
+ - 🎨 &nbsp; Led XML to Jetpack Compose migration with architecture documentation
+ - 🤝 &nbsp; Helped teams adopt modern Android development practices
 
 ### Zee5 [April 2022 - March 2024]
  - 🚀 &nbsp; Reduced App Size by 25% by various means like optimizing assets and analyzing the library size
